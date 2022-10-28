@@ -20,18 +20,20 @@
     -webkit-backdrop-filter: blur(3px);
 }
 .info-secs {
-    height: 300px;
+    min-height: 300px;
     border-bottom: 2px solid #97bf13;
 }
 .content-home-1 {
     background-image: url("../img/content-home-1.jpg");
     background-size: cover;
-    background-position-y: center;
+    background-position: center;
+    min-height: 300px;
 }
 .content-home-2 {
     background-image: url("../img/content-home-2.jpg");
     background-size: cover;
-    background-position-y: center;
+    background-position: center;
+    min-height: 300px;
 }
 
 .footer {
