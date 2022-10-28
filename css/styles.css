@@ -40,9 +40,15 @@
     background-image: url("../img/content-about-1.jpg");
     background-size: cover;
     background-position: center;
-    min-height: 300px;
+    min-height: 500px;
+    background-attachment: fixed; 
+    background-repeat: no-repeat;
 }
-
+/* .parallax2 {
+      font-family: 'Open Sans', sans-serif;
+      opacity: 0.85;
+    } 
+*/
 .content-about-2 {
     background-image: url("../img/content-about-2.jpg");
     background-size: cover;
