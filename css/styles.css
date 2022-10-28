@@ -1,7 +1,47 @@
+#navbarSupportedContent > ul > li > a {
+    color: #6d6d6f;
+}
+
+#navbarSupportedContent > ul > li > a:hover {
+    color: #97bf13;
+}
+
 .jumbotron {
     background-image: url("../img/j-bkg.jpg"); 
     background-size: cover;
     background-position-y: bottom;
     height: 500px;
+    border-top: 2px solid #97bf13;
+    border-bottom: 2px solid #97bf13;
+}
+.jumbotron-content {
+    background-color: #24222261;
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+}
+.info-secs {
+    height: 300px;
+    border-bottom: 2px solid #97bf13;
+}
+.content-home-1 {
+    background-image: url("../img/content-home-1.jpg");
+    background-size: cover;
+    background-position-y: center;
+}
+.content-home-2 {
+    background-image: url("../img/content-home-2.jpg");
+    background-size: cover;
+    background-position-y: center;
 }
 
+.footer {
+    background-color: #201f1f;
+    min-height: 300px;
+}
+
+
+
+/* Photo Credits
+Photo by <a href="https://unsplash.com/@noahbuscher?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Noah Buscher</a> on <a href="https://unsplash.com/s/photos/green-energy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@redzeppelin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Red Zeppelin</a> on <a href="https://unsplash.com/s/photos/green-energy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+*/
