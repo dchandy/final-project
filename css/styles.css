@@ -36,6 +36,20 @@
     min-height: 300px;
 }
 
+.content-about-1 {
+    background-image: url("../img/content-about-1.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 300px;
+}
+
+.content-about-2 {
+    background-image: url("../img/content-about-2.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 300px;
+}
+
 .footer {
     background-color: #201f1f;
     min-height: 300px;
@@ -46,4 +60,5 @@
 /* Photo Credits
 Photo by <a href="https://unsplash.com/@noahbuscher?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Noah Buscher</a> on <a href="https://unsplash.com/s/photos/green-energy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by <a href="https://unsplash.com/@redzeppelin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Red Zeppelin</a> on <a href="https://unsplash.com/s/photos/green-energy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/es/@nataliepedigo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Natalie Pedigo</a> on <a href="https://unsplash.com/s/photos/teamwork?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 */
