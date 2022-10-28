@@ -1,3 +1,7 @@
+p, h4 {
+    font-family: 'Anaheim', sans-serif;
+}
+
 #navbarSupportedContent > ul > li > a {
     color: #6d6d6f;
 }
@@ -44,11 +48,7 @@
     background-attachment: fixed; 
     background-repeat: no-repeat;
 }
-/* .parallax2 {
-      font-family: 'Open Sans', sans-serif;
-      opacity: 0.85;
-    } 
-*/
+
 .content-about-2 {
     background-image: url("../img/content-about-2.jpg");
     background-size: cover;
